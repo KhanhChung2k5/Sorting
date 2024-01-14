@@ -117,7 +117,7 @@ void MENU(TREE &t)
 			Duyet_LRN(t);
 		}
 	}
-int main2() {
+int main() {
 	TREE t;
 	CreateTree(t);
 	MENU(t);
