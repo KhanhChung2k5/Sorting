@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai tap.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sudoku.cpp
+C:\Users\Lenovo\source\repos\Bai tap\Bai tap\sudoku.cpp(68,17): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\Bai tap\Bai tap\sudoku.cpp(68,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\Bai tap\Bai tap\sudoku.cpp(68,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\Bai tap\Bai tap\sudoku.cpp(75,15): warning C4101: 'cols': unreferenced local variable
+  Bai tap.vcxproj -> C:\Users\Lenovo\source\repos\Bai tap\x64\Debug\Job.exe
