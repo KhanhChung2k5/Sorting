@@ -95,7 +95,7 @@ void heapsort(int a[], int n) {
 
 
 }
-int main2() {
+int main() {
 	int n;
 	cin >> n;
 	int a[100];
